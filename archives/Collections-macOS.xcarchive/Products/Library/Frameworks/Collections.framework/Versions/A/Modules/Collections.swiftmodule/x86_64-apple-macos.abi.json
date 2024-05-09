@@ -22,9 +22,10 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:11Collections3FooO3barSSyF",
-            "mangledName": "$s11Collections3FooO3barSSyF",
+            "usr": "s:11Collections3FooO3barSSyFZ",
+            "mangledName": "$s11Collections3FooO3barSSyFZ",
             "moduleName": "Collections",
+            "static": true,
             "declAttributes": [
               "AccessControl"
             ],
@@ -46,7 +47,7 @@
     {
       "filePath": "\/Users\/nikitapuzikov\/Desktop\/testFolder2\/Collections\/Collections\/Foo.swift",
       "kind": "StringLiteral",
-      "offset": 60,
+      "offset": 67,
       "length": 5,
       "value": "\"bar\""
     }

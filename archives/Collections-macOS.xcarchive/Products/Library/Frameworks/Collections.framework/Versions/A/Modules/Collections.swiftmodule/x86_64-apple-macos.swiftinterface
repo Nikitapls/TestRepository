@@ -8,5 +8,5 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 public enum Foo {
-  public func bar() -> Swift.String
+  public static func bar() -> Swift.String
 }

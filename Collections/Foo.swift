@@ -1,5 +1,5 @@
 public enum Foo {
-    public func bar() -> String {
+    public static func bar() -> String {
         "bar"
     }
 }
