@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Release/Collections.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Collections.build/Release/Collections.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Release/Collections.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "Collections-Swift.h",
+      'external-contents': "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Collections.build/Release/Collections.build/unextended-interface-header.h",
+    }]
+    }]
+}

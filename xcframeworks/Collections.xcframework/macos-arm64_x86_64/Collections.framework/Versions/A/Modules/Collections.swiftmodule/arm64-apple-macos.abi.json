@@ -1,0 +1,54 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "TypeDecl",
+        "name": "Foo",
+        "printedName": "Foo",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "bar",
+            "printedName": "bar()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11Collections3FooO3barSSyF",
+            "mangledName": "$s11Collections3FooO3barSSyF",
+            "moduleName": "Collections",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:11Collections3FooO",
+        "mangledName": "$s11Collections3FooO",
+        "moduleName": "Collections",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/nikitapuzikov\/Desktop\/testFolder2\/Collections\/Collections\/Foo.swift",
+      "kind": "StringLiteral",
+      "offset": 60,
+      "length": 5,
+      "value": "\"bar\""
+    }
+  ]
+}

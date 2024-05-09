@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "feafef7a20783e0a180b8313e552c3fda41f53768f4068b170ac3fd509719ba2"
+build_start_time: [1715249582, 777134000]
+build_end_time: [1715249589, 655245000]
+inputs:
+  "/Users/nikitapuzikov/Desktop/testFolder2/Collections/Collections/Foo.swift": [1715249061, 468969825]

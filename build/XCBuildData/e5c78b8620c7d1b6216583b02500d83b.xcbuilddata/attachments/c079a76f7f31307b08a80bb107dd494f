@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Collections.build/Release/Collections.build/Objects-normal/arm64/Collections-master.swiftconstvalues",
+    "dependencies" : "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Collections.build/Release/Collections.build/Objects-normal/arm64/Collections-master.d",
+    "diagnostics" : "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Collections.build/Release/Collections.build/Objects-normal/arm64/Collections-master.dia",
+    "emit-module-dependencies" : "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Collections.build/Release/Collections.build/Objects-normal/arm64/Collections-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Collections.build/Release/Collections.build/Objects-normal/arm64/Collections-master-emit-module.dia",
+    "swift-dependencies" : "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Collections.build/Release/Collections.build/Objects-normal/arm64/Collections-master.swiftdeps"
+  },
+  "/Users/nikitapuzikov/Desktop/testFolder2/Collections/Collections/Foo.swift" : {
+    "index-unit-output-path" : "/Collections.build/Release/Collections.build/Objects-normal/arm64/Foo.o",
+    "llvm-bc" : "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Collections.build/Release/Collections.build/Objects-normal/arm64/Foo.bc",
+    "object" : "/Users/nikitapuzikov/Desktop/testFolder2/Collections/build/Collections.build/Release/Collections.build/Objects-normal/arm64/Foo.o"
+  }
+}
